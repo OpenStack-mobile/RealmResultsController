@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RealmResultsController iOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>RealmResultsController tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>RealmResultsControllerExample.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6EF262651D7DCEFC00C40773</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EF2627D1D7DCEFF00C40773</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C18C37601B72670F008DE6A6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C1A0028A1B9702C1000C0E8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C1A002931B9702C1000C0E8C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
